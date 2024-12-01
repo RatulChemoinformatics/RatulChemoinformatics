@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ratul Bhowmik</h1>
-<h3 align="center">Researcher || Tampere University || Ex-Student Jamia Hamdard University, New Delhi || Junior Research Fellow & Teaching Assistant [2022-2023] at Amrita Vishwa Vidyapeetham, Kochi || Chemoinformatics || Computational Biology || QSAR Modeler</h3>
+<h3 align="center">Researcher || Tampere University || Former Student at Jamia Hamdard University, New Delhi || Junior Research Fellow & Teaching Assistant [2022-2023] at Amrita Vishwa Vidyapeetham, Kochi || Chemoinformatics || Computational Biology || QSAR Modeler</h3>
 
 
 
