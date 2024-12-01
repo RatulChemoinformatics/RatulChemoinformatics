@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Ratul
-- 👀 I’m interested on Bioinformatics Research and Chemoinformatics-driven Drug Discovery
+- 👋 Hi, I’m Ratul Bhowmik
+- 👀 I’m interested on Bioinformatics Research and Chemoinformatics-driven Drug Discovery Approaches
 - 🌱 I’m currently learning Network Systems Biology and Deep-learning algorithms for dvancements in QSAR Modeling
 - 💞️ I’m looking for help with Research Pipelines for Computational Biology as well as Chemoinformatics
 - 📫 How to reach me ratulbhowmik2023@gmail.com
