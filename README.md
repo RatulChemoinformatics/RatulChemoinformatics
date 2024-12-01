@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **System Biology and Cheminformatics-driven Drug Discovery Approaches to combat Tuberculosis, Neurological Disorders, and Cancer**
 
-- 🌱 I’m currently learning **Network-based approaches and Deep-learning algorithms for advancements in QSAR Modeling**
+- 🌱 I’m currently learning **Network-based approaches and Deep-learning algorithms for advancements in QSAR Modeling to discover novel human as well as Mycobacterium Carbonic Anhydrase Inhibitors**
 
 - 👯 I’m looking to collaborate on **projects related to Drug Discovery**
 
