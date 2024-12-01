@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ratul Bhowmik</h1>
 <h3 align="center">Researcher || Tampere University || Ex-Student Jamia Hamdard University, New Delhi || Junior Research Fellow & Teaching Assistant [2022-2023] at Amrita Vishwa Vidyapeetham, Kochi || Chemoinformatics || Computational Biology || QSAR Modeler</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ratulchemoinformatics&label=Profile%20views&color=0e75b6&style=flat" alt="ratulchemoinformatics" /> </p>
 
 
 - 🔭 I’m currently working on **System Biology and Cheminformatics-driven Drug Discovery Approaches to combat Tuberculosis, Neurological Disorders, and Cancer**
