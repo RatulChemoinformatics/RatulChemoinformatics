@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ratulchemoinformatics&label=Profile%20views&color=0e75b6&style=flat" alt="ratulchemoinformatics" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ratulchemoinformatics" alt="ratulchemoinformatics" /></a> </p>
 
 - 🔭 I’m currently working on **System Biology and Cheminformatics-driven Drug Discovery Approaches to combat Tuberculosis, Neurological Disorders, and Cancer**
 
